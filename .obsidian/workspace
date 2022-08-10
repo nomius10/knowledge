@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "72ef191f2ba6a862",
+    "type": "split",
+    "children": [
+      {
+        "id": "025a28ac4ecc0d05",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cryptography/Cryptography.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b75c2793c6305767",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbcc16819c60f6c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c228b77466787b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "180d4efcdaa19fed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "479512d780cd7c16",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc0c823771c06d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f939076b6c7f0f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a64c71b23ffe7b7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cryptography/Cryptography.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6542e4ab1d37474",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cryptography/Cryptography.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ba8c225ffc0cbe1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccbf5d2e01240033",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cryptography/Cryptography.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "025a28ac4ecc0d05",
+  "lastOpenFiles": [
+    "StartPage.md",
+    "_res/tailopez.jpg",
+    "Cryptography/Cryptography.md",
+    "Rust/Rust.md",
+    "日本語/Japanese.md"
+  ]
+}
